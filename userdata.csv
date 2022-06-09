@@ -1,5 +1,9 @@
-Name: Neha Guinesh
-Email: guineshn@gmail.com
-Date of Birth: 21st May 1997
-Gender: Female
-Country: Mozambique
+<?php
+$array = array(
+    "Name = Neha Guinesh",
+    "Email = guineshn@gmail.com",
+    "Date of Birth = 21st May 1997",
+    "Gender = Female",
+    "Country = Mozambique");
+print_r($array);
+?>
